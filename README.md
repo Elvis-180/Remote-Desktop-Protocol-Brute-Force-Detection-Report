@@ -1,4 +1,4 @@
-# Detecting and Investigating RDP Brute Force Attacks
+# RDP Brute Force Attack Detection with Splunk and MITRE ATT&CK
 
 ## Overview
 
